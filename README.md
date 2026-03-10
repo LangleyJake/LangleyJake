@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I’m Jake Langley
 
-<!--
-**LangleyJake/LangleyJake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student  
+💻 Aspiring Software Engineer | Interested in Python, backend dev, and automation  
+🚀 Seeking Software/IT internships for 2026–2027  
+📍 Based in Tennessee
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
+- **Languages:** Python, Java, C/C++, HTML/CSS/JavaScript  
+- **Tools:** Git, GitHub, VS Code, Linux  
+- **Learning:** Data Structures, Algorithms, APIs, SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Projects
+- 🧾 Inventory Tracker (Python CLI)
+- 🌐 Personal Portfolio Website (HTML/CSS/JS)
+- 🧠 Study Assistant / Flashcard App (Python or JS)
+
+➡️ More coming soon!
+
+## 📫 Contact
+- Email: LangleyJake@hotmail.com
+- LinkedIn: https://www.linkedin.com/in/jake-langley-a77a4b1a9/
